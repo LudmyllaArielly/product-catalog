@@ -1,4 +1,4 @@
-# Catalógo de produtps
+# Catalógo de produtos
 *Projeto construído com bootcamp, a aplicação é baseada e microsserviços utilizando spring cloud.*
 
 ## Tecnologias usadas
